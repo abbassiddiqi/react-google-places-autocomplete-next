@@ -1,7 +1,7 @@
 {
-  "name": "react-google-places-autocomplete",
-  "version": "4.1.0",
-  "description": "Google places autocomplete input for ReactJS.",
+  "name": "react-google-places-autocomplete-next",
+  "version": "1.0.0",
+  "description": "Google places autocomplete input for ReactJS with React 19 support.",
   "main": "build/index.js",
   "module": "build/index.es.js",
   "scripts": {
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tintef/react-google-places-autocomplete.git"
+    "url": "git+https://github.com/abbassiddiqi/react-google-places-autocomplete-next.git"
   },
-  "author": "Nicolás Tinte",
+  "author": "Abbas Siddiqi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tintef/react-google-places-autocomplete/issues"
+    "url": "https://github.com/abbassiddiqi/react-google-places-autocomplete-next/issues"
   },
-  "homepage": "https://github.com/Tintef/react-google-places-autocomplete#readme",
+  "homepage": "https://github.com/abbassiddiqi/react-google-places-autocomplete-next#readme",
   "keywords": [
     "react",
     "google-places",
